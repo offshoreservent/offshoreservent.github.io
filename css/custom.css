@@ -1,0 +1,26 @@
+/* custom css goes here */
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.tm-footer.uk-block {
+	padding-top: 20px;
+	padding-bottom: 20px ;
+	line-height: 50px;
+}
+
+.tm-home-slideshow.uk-slideshow-fullscreen{
+     max-height: calc(100vh - 80px);
+
+}
+
+.tm-home-slideshow-button.uk-slideshow-button{
+     max-height: calc(100vh - 100px);
+
+}
+.tm-button-huge{
+
+	padding :10px 15px;
+	line-height: 15px;
+	font-size: 12px;
+}
